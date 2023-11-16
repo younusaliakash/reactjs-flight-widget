@@ -1,0 +1,51 @@
+[
+  {
+    "departing": "10:30",
+    "destination": "Los Angeles, USA",
+    "flightNumber": "LA789",
+    "gate": "C17",
+    "status": "On Time"
+  },
+  {
+    "departing": "15:45",
+    "destination": "Rome, ITA",
+    "flightNumber": "RM567",
+    "gate": "A21",
+    "status": "Delayed"
+  },
+  {
+    "departing": "18:20",
+    "destination": "Toronto, CAN",
+    "flightNumber": "TO123",
+    "gate": "D10",
+    "status": "Boarding"
+  },
+  {
+    "departing": "22:00",
+    "destination": "Mumbai, IND",
+    "flightNumber": "MBI555",
+    "gate": "E25",
+    "status": "On Time"
+  },
+  {
+    "departing": "09:15",
+    "destination": "Sydney, AUS",
+    "flightNumber": "SYD111",
+    "gate": "B8",
+    "status": "Arrived"
+  },
+  {
+    "departing": "13:50",
+    "destination": "Cape Town, ZAF",
+    "flightNumber": "CT789",
+    "gate": "F14",
+    "status": "Boarding Soon"
+  },
+  {
+    "departing": "19:45",
+    "destination": "Berlin, DEU",
+    "flightNumber": "BR444",
+    "gate": "G30",
+    "status": "On Time"
+  }
+]
