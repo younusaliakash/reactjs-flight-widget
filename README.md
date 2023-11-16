@@ -4,6 +4,8 @@
 
 Welcome to the Flight Widget, a captivating React.js application that brings the excitement of an airport departure board to your screen. This widget combines the power of React.js for dynamic features and CSS for stylish design and smooth animations. Users can seamlessly explore the departures UI, showcasing essential flight details like name, time, destination, remarks, and gate number, all presented with visually engaging flipping animation effects.
 
+<img src="/public/deapartures.gif" alt="departures"></img>
+
 ## Features
 
 - **Airport-Like UI:**
