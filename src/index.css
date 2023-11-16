@@ -26,6 +26,7 @@ header {
 }
 .departures table td {
   height: 40px;
+  text-transform: uppercase;
 }
 .departures table div {
   border: solid 4px rgba(26, 26, 26);
@@ -36,7 +37,7 @@ header {
   width: 160px;
 }
 #destination {
-  width: 310px;
+  width: 330px;
 }
 #flight {
   width: 205px;
